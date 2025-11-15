@@ -1,6 +1,4 @@
-# Subscription-Tier-Optimization-Engine
-
-# ⚡ InsightEdge - Feature Intelligence Dashboard
+# ⚡ Subscription Tier Optimization Engine
 
 A comprehensive subscription management and analytics platform built with **Streamlit**, **MySQL**, and **Plotly** for real-time feature usage insights, user engagement tracking, and intelligent upgrade recommendations.
 
@@ -25,7 +23,7 @@ A comprehensive subscription management and analytics platform built with **Stre
 
 ## 🎯 Overview
 
-**InsightEdge** is a feature intelligence dashboard designed for subscription-based platforms. It provides actionable insights into:
+**Subscription Tier Optimization Engine** is a feature intelligence dashboard designed for subscription-based platforms. It provides actionable insights into:
 
 - **Feature Usage Analytics**: Track which features are most engaging
 - **User Segmentation**: Analyze user behavior across market segments
