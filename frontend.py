@@ -1,5 +1,5 @@
 # ============================================================
-# ⚡ InsightEdge - Feature Intelligence Dashboard (Final Version with Correlated Query)
+# ⚡ Subscription Tier Optimization Engine (Final Version with Correlated Query)
 # ============================================================
 
 import streamlit as st
@@ -25,12 +25,12 @@ def get_connection():
 # ============================================================
 
 st.set_page_config(
-    page_title="InsightEdge - Feature Analytics Dashboard",
+    page_title="Subscription Tier Optimization Engine",
     page_icon="📊",
     layout="wide"
 )
 
-st.title("⚡ InsightEdge - Feature Intelligence Dashboard")
+st.title("⚡ Subscription Tier Optimization Engine")
 st.markdown(
     "Real-time analytics engine providing insights into feature usage, user engagement, and upgrade recommendations."
 )
